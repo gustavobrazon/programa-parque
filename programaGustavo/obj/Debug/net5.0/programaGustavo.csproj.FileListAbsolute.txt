@@ -1,0 +1,16 @@
+C:\Users\Marcelo\Documents\programaGustavo\bin\Debug\net5.0\programaGustavo.exe
+C:\Users\Marcelo\Documents\programaGustavo\bin\Debug\net5.0\programaGustavo.deps.json
+C:\Users\Marcelo\Documents\programaGustavo\bin\Debug\net5.0\programaGustavo.runtimeconfig.json
+C:\Users\Marcelo\Documents\programaGustavo\bin\Debug\net5.0\programaGustavo.runtimeconfig.dev.json
+C:\Users\Marcelo\Documents\programaGustavo\bin\Debug\net5.0\programaGustavo.dll
+C:\Users\Marcelo\Documents\programaGustavo\bin\Debug\net5.0\ref\programaGustavo.dll
+C:\Users\Marcelo\Documents\programaGustavo\bin\Debug\net5.0\programaGustavo.pdb
+C:\Users\Marcelo\Documents\programaGustavo\obj\Debug\net5.0\programaGustavo.csproj.AssemblyReference.cache
+C:\Users\Marcelo\Documents\programaGustavo\obj\Debug\net5.0\programaGustavo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Documents\programaGustavo\obj\Debug\net5.0\programaGustavo.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Documents\programaGustavo\obj\Debug\net5.0\programaGustavo.AssemblyInfo.cs
+C:\Users\Marcelo\Documents\programaGustavo\obj\Debug\net5.0\programaGustavo.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Documents\programaGustavo\obj\Debug\net5.0\programaGustavo.dll
+C:\Users\Marcelo\Documents\programaGustavo\obj\Debug\net5.0\ref\programaGustavo.dll
+C:\Users\Marcelo\Documents\programaGustavo\obj\Debug\net5.0\programaGustavo.pdb
+C:\Users\Marcelo\Documents\programaGustavo\obj\Debug\net5.0\programaGustavo.genruntimeconfig.cache
